@@ -7,7 +7,7 @@ I'm a Postdoctoral Researcher at Khalifa University with a deep interest in the 
 *   👯 I’m looking to collaborate on projects involving **materials informatics** and **predictive modeling for manufacturing**.
 *   💬 Ask me about **laser powder bed fusion, shape memory alloys, Python, or MATLAB**.
 *   📫 How to reach me: [![Email](https://img.shields.io/badge/Email-contact%40shahadathussain.com-blue)](mailto:contact@shahadathussain.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shahadathussain)
-*   🌐 Personal website: [shahadat-hussain.github.io](https://shahadat-hussain.github.io)
+*   🌐 Personal website: [www.shahadathussain.com](https://www.shahadathussain.com)
 
 ### 🛠️ Technical Skills
 *   **Additive Manufacturing**: Laser Powder Bed Fusion, Process Optimization
