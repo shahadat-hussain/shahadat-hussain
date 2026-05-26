@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Shahadat Hussain, PhD
 
-I'm a Postdoctoral Researcher at Khalifa University with a deep interest in the intersection of **mechanical engineering** and **data science**.
+I'm a Research Associate at New York University Abu Dhabi with a deep interest in the intersection of **mechanical engineering** and **data science**.
 
-*   🔭 I’m currently working on **additive manufacturing of NiTi TPMS lattices** and **machine learning for materials science**.
+*   🔭 I’m currently working on **additive manufacturing of TPMS lattices** and **machine learning for materials science**.
 *   🌱 I’m currently deepening my expertise in **Deep Learning** and **Advanced Python for data analysis**.
 *   👯 I’m looking to collaborate on projects involving **materials informatics** and **predictive modeling for manufacturing**.
 *   💬 Ask me about **laser powder bed fusion, shape memory alloys, Python, or MATLAB**.
