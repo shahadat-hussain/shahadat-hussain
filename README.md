@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dr. Shahadat Hussain, PhD
+# Shahadat Hussain, PhD
 
 ### R&D Engineer · Materials Science · Data Science · Scientific Computing
 
