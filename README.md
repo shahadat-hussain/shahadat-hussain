@@ -136,7 +136,7 @@ I'm open to collaboration with researchers, engineers, and data scientists worki
 
 <div align="center">
 
-*Researcher IDs: ORCID [0000-0002-4355-2169](https://orcid.org/0000-0002-4355-2169) · Scopus [56380929800](http://www.scopus.com/inward/authorDetails.url?authorID=56380929800) · ResearcherID [I-3091-2017](https://www.webofscience.com/wos/author/record/I-3091-2017) · ISNI [0000-0005-3020-7229](https://isni.org/isni/0000000530207229)*
+*Researcher IDs: ORCID [0000-0002-4355-2169](https://orcid.org/0000-0002-4355-2169) · Scopus [56380929800](http://www.scopus.com/inward/authorDetails.url?authorID=56380929800) · ResearcherID [I-3091-2017](https://www.webofscience.com/wos/author/record/I-3091-2017)*
 
 </div>
 
