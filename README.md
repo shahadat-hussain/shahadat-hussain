@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Research Associate at NYU Abu Dhabi** with 6+ years of experience at the intersection of advanced materials engineering and computational science. My work bridges the physical and digital — designing and fabricating architected metamaterials, then applying data science and machine learning to understand and predict their behaviour.
+I'm a **Associate Research Scientist at NYU Abu Dhabi** with 6+ years of experience at the intersection of advanced materials engineering and computational science. My work bridges the physical and digital — designing and fabricating architected metamaterials, then applying data science and machine learning to understand and predict their behaviour.
 
 I design, 3D-print, characterise, and computationally analyse **NiTi Shape Memory Alloy TPMS (Triply Periodic Minimal Surface) lattices** — structures where geometry *is* the property. On the code side, I process experimental data with Python and MATLAB, build ML pipelines for materials property prediction, and develop interactive dashboards to communicate research findings.
 
